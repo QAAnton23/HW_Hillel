@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Галерея</title>
+</head>
+<body>
+    <h1>Галерея</h1>
+
+    <h2>Я</h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdCKICR0ouzfpzWPBC41adf8OF17HYbEyog&s" alt="Моя собака" width="300">
+  
+
+    <h2>Мой друг</h2>
+    <img src="https://st3.depositphotos.com/5326338/15381/i/450/depositphotos_153815272-stock-photo-actor-johnny-depp.jpg" alt="Мой кот" width="300">
+   
+    <nav>
+        <ul>
+            <li><a href="../index.html">На главную</a></li>
+            <li><a href="contact.html">Контакты</a></li>
+        </ul>
+    </nav>
+</body>
+</html>

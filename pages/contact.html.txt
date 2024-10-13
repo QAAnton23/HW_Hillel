@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контакты</title>
+</head>
+<body>
+    <h1>Контакты</h1>
+
+    <p>Вы можете связаться со мной по следующим каналам:</p>
+    <ul>
+        <li>Email: <a href="ironbrunka2228@gmail.com">ironbrunka2228@gmail.com</a></li>
+        <li>Телефон: +380 668798060</li>
+        <li>GitHub: <a href="https://github.com/alexey" target="_blank">github.com/QAAnton</a></li>
+    </ul>
+
+    <nav>
+        <ul>
+            <li><a href="../index.html">На главную</a></li>
+            <li><a href="gallery.html">Галерея</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
+
+
